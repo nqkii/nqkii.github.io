@@ -1,2 +1,8 @@
-title: [Portfolio]
-description: [Portfolio for Nikki]
+
+# Portfolio
+
+
+### Education
+
+**BSc (Hons) Computer Games Technology**
+University of Portsmouth
