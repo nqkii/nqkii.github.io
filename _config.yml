@@ -3,6 +3,5 @@ plugins:
 - jekyll-remote-theme
 
 title: [Nikki van der Kleij] 
-description: [Game Programmer
-
-Computer Games Technology Student at University of Portsmouth]
+#logo:
+description: [Game Programmer]
